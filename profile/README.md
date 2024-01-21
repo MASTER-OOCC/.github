@@ -1,4 +1,4 @@
-# Materials and Structures Research Group (MASTER)
+# Description
 
 The [Materials and Structures Research Group (MASTER)](https://www.researchgate.net/lab/MASTER-Erick-I-Saavedra-Flores "ResearchGate") focuses on developing and utilizing modern computational techniques to enhance our understanding of the mechanics of solid materials and perform structural analysis.
 
